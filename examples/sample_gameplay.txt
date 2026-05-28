@@ -1,0 +1,4 @@
+[FEN]
+rnbqkbnr/pp1ppppp/2p5/8/8/2N5/PPPPPPPP/R1BQKBNR w KQkq - 0 2
+[MOVES]
+1. b1c3 c7c6
